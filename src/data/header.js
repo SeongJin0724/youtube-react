@@ -18,13 +18,13 @@ export const headerMenus = [
     src: "/today",
   },
   {
-    title: "추천 유튜버",
+    title: "추천 개발 유튜버",
     icon: <CiCoins1 />,
     src: "/developer",
   },
 
   {
-    title: "포트폴리오 사이트",
+    title: "포트폴리오 가이드",
     icon: <CiDumbbell />,
     src: "/port",
   },
@@ -45,15 +45,15 @@ export const searchKeyword = [
   },
   {
     title: "JavaScript",
-    src: "/search/javascript",
+    src: "/search/자바스크립트",
   },
   {
-    title: "React.js",
-    src: "/search/react.js",
+    title: "React",
+    src: "/search/React.js",
   },
   {
     title: "Vue.js",
-    src: "/search/vue.js",
+    src: "/search/Vue.js",
   },
   {
     title: "Next.js",
@@ -61,7 +61,7 @@ export const searchKeyword = [
   },
   {
     title: "Node.js",
-    src: "/search/node.js",
+    src: "/search/노드",
   },
   {
     title: "SQL",
@@ -72,7 +72,7 @@ export const searchKeyword = [
     src: "/search/React Portfolio",
   },
   {
-    title: "music",
+    title: "NewJeans",
     src: "/search/NewJeans",
   },
 ];
@@ -85,7 +85,7 @@ export const snsLink = [
   },
   {
     title: "youtube",
-    url: "https://www.youtube.com",
+    url: "https://www.youtube.com/@nomadcoders",
     icon: <AiFillYoutube />,
   },
   {

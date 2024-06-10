@@ -1,6 +1,6 @@
 export const developerText = [
   {
-    img: "https://yt3.googleusercontent.com/JU6k565OVstxx_h_7TbzE1aNXKzcxKl33zjPV4p649pqsgS7E3vb0meX9DB1_D_KviDoc4xM=s176-c-k-c0x00ffffff-no-rj",
+    img: "https://yt3.googleusercontent.com/O1pEhceIrP09eG4mcoH-VdwTzrvpSJr3uJacENwzSjmkZx53H0qB_6rpJQaun518sqVQ1kSu_A=s176-c-k-c0x00ffffff-no-rj",
     name: "webstoryboy",
     channelAddress: "https://www.youtube.com/@webstoryboy",
     channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
@@ -102,7 +102,7 @@ export const developerText = [
     channelId: "UCku8mOp8y05Cm6sb9Rp0jMQ",
   },
   {
-    img: "https://yt3.googleusercontent.com/1gLFRSPxZUYjlGG-Ap7B2bymZkdp4fFuSTAntouex6mdUQUZ2lA8kWMrzKOLHAdfkzjopcntU7E=s176-c-k-c0x00ffffff-no-rj",
+    img: "https://yt3.googleusercontent.com/SrCeLz3yIf5kVvXOZz8VzenrpyYOIolN9xAdyQI9X6G-_JhiGKqR0nRQ_OcaK5c5cYkyeA0OFQ=s176-c-k-c0x00ffffff-no-rj",
     name: "프로그래머 김플 스튜디오",
     channelAddress: "https://www.youtube.com/@kimfl",
     channelId: "UCdNSo3yB5-FRTFGbUNKNnwQ",
@@ -156,7 +156,7 @@ export const developerText = [
     channelId: "UCkXqOdpo5ul8BosGBFlDgmw",
   },
   {
-    img: "https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj",
+    img: "https://yt3.googleusercontent.com/v5yebiyShCTNr18fnhq_oWHjQ24rAcrkexosBb8rFA8HI3elXOOSzUKfqrO8IlE_HaC7mgU0sw=s176-c-k-c0x00ffffff-no-rj",
     name: "Code With Antonio",
     channelAddress: "https://www.youtube.com/@codewithantonio",
     channelId: "UCW_4e6sUTMWHxlF06aErH9w",
@@ -174,13 +174,13 @@ export const developerText = [
     channelId: "UCvx57s_ZBt5VG4fvlStiq2g",
   },
   {
-    img: "https://yt3.googleusercontent.com/wr8dNnJ8dSHjBsHKag3O6ZCKmxJvnxqhpPi-E6sWf83JYKxnevU2iSt3FzLxjzrZOCTRpbi53mg=s176-c-k-c0x00ffffff-no-rj",
-    name: "코딩카페1",
-    channelAddress: "https://www.youtube.com/@CodingCafe1",
+    img: "https://yt3.googleusercontent.com/hrX6731HTDwpLT3xkytN0OxO5X8qqPm1R6zFnESSYz9h9JsbzQZv5vt7BEv-OIyRoNvqltY8kA=s176-c-k-c0x00ffffff-no-rj",
+    name: "jsontype",
+    channelAddress: "https://www.youtube.com/@jsontype",
     channelId: "UCt76J5CYnXL-uoJmQPG2Azw",
   },
   {
-    img: "https://yt3.googleusercontent.com/AVa5OPep1y0E8bZMIyLDyzg1jTwApHaSCi2RUG0epuLFZe0e80yvYo7MNHd-ApnvOtDgT3A3=s176-c-k-c0x00ffffff-no-rj",
+    img: "https://yt3.googleusercontent.com/3cQwc6GYB_mGHKjJ5LaZ-DX_Fii3NSLdz-Rmi7ZFqAOqsPDhHvc1qcciHM6v2tvr_4IYCynGvA=s176-c-k-c0x00ffffff-no-rj",
     name: "Codegrid",
     channelAddress: "https://www.youtube.com/@codegrid",
     channelId: "UC7pVho4O31FyfQsZdXWejEw",
