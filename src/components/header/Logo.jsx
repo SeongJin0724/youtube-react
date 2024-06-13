@@ -5,13 +5,12 @@ const logo = ({ toggleMenu }) => {
   return (
     <h1 className="header__logo">
       <Link to="/">
-        <em aria-hidden="true" onClick={toggleMenu}>
-          <span>
-            LSJ
-            <br />
-            Youtube
-          </span>
-        </em>
+        <em aria-hidden="true" onClick={toggleMenu}></em>
+        <span>
+          LSJ
+          <br />
+          Youtube
+        </span>
       </Link>
     </h1>
   );
