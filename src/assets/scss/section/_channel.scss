@@ -36,23 +36,23 @@
   text-align: center;
   .title {
     margin-bottom: 10px;
-    .desc {
-      color: #adadad;
-      padding: 0 10vw;
-      margin-bottom: 30px;
-      overflow-wrap: anywhere;
-    }
-    .info span {
-      background-color: #a6a6a631;
-      padding: 10px 20px;
-      border-radius: 40px;
-      margin: 4px;
-      svg {
-        width: 20px;
-        height: 20px;
-        vertical-align: -5px;
-        margin-right: 5px;
-      }
+  }
+  .desc {
+    color: #adadad;
+    margin-bottom: 30px;
+    overflow-wrap: anywhere;
+    padding: 0 10vw;
+  }
+  .info span {
+    background-color: #a6a6a631;
+    padding: 10px 20px;
+    border-radius: 40px;
+    margin: 4px;
+    svg {
+      width: 20px;
+      height: 20px;
+      vertical-align: -5px;
+      margin-right: 5px;
     }
   }
 
