@@ -14,7 +14,7 @@ export const Search = () => {
   };
   return (
     <div id="search">
-      <div className="search_inner">
+      <div className="search__inner">
         <label htmlFor="searchInput">
           <span className="ir">검색</span>
         </label>
